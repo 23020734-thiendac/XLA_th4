@@ -5,3 +5,8 @@ __pycache__/
 *_backup*
 .DS_Store
 Thumbs.db
+
+# Kết quả được tạo lại khi chạy chương trình, không đưa lên GitHub.
+output_*/
+robot_32x32.png
+robot_64x64.png

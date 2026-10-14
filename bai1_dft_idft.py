@@ -15,7 +15,7 @@ from PIL import Image
 
 
 THU_MUC = Path(__file__).resolve().parent
-ANH_GOC = THU_MUC / "robot_goc.png"
+ANH_GOC = THU_MUC / "week4_image.png"
 OUTPUT = THU_MUC / "output_bai1"
 KICH_THUOC = (32, 64)
 
