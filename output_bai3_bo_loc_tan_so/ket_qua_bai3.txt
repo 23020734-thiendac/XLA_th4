@@ -1,0 +1,3 @@
+D0=10: ILPF giữ 317/4096 hệ số, MSE thông thấp=432.473008, năng lượng thông cao=432.473008
+D0=30: ILPF giữ 2821/4096 hệ số, MSE thông thấp=19.001563, năng lượng thông cao=19.001563
+D0=50: ILPF giữ 4096/4096 hệ số, MSE thông thấp=0.000000, năng lượng thông cao=0.000000
